@@ -163,11 +163,3 @@
   border-radius: 0px !important;
 }
 
-@media only screen and (min-width: 412px) {
-  .ce-wrapper {
-    background-color: #4a5162 !important;
-    width: calc(70vw - 100px - 10px);
-    width: calc(25vh);
-  }
-
-}
