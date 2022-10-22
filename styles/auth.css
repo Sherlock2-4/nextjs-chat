@@ -63,21 +63,3 @@
   background-color: #938ffe;
 }
 
-@media only screen and (min-width: 412px) {
-  .auth-form {
-    padding-top: 33px;
-    width: 60%;
-    margin-left: 0 auto;
-  }
-
-  .auth-container {
-    width: 419px;
-    height: 290px;
-    position: center;
-    top: calc(50vh - 155px - 115px);
-    left: calc(62vw - 156px - 206px);
-    background-color: #4a5162;
-    border-radius: 60px;
-    box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
-  }
-}
